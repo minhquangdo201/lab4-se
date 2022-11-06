@@ -1,0 +1,13 @@
+.form-outer {
+    display: inline-block;
+}
+.login-form {
+    margin: 100px;
+    display: block;
+    height: 400px;
+    width: 400px;
+    border: solid 1px;
+}
+.form-input {
+    margin: 20px;
+}
